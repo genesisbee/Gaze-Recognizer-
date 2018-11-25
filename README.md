@@ -1,2 +1,2 @@
-# Gaze-Recognizer-
+# Gaze-Recognizer
 Gaze recognition 
